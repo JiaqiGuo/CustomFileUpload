@@ -1,0 +1,1 @@
+(function(){$(function(){return console.log("DOM is ready"),$(".customFileUpload").customFileUpload()})}).call(this);
